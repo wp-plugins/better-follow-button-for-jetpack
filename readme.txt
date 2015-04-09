@@ -32,7 +32,8 @@ This plugin adds a floating follow button to Jetpack Powered sites that allows y
 
 == Screenshots ==
 
-1. Follow Button at my blogs right bottom corner (both open & close)
+1. Collapsed (both open & close)
+2. Open
 
 == Changelog ==
 
